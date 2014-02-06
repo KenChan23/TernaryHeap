@@ -1,4 +1,4 @@
-// Ken Chan's Extra Credit (Ternary Heaps)
+// Ken Chan (Ternary Heaps)
 // This program demonstrates the functionality of a priority queue in regards to ternary heaps.
 // The following is a general step-by-step procedure the program follows:
 //   1.) Employs try and catch blocks to handle thrown exceptions whenever errors are encountered.
